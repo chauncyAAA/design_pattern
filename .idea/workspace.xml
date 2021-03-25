@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="221d6e71-7aae-4823-a9fd-4324df44aaa1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TTT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/AbstractBlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/AbstractHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/AbstractWhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/AbstractYellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/BlackFemaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/BlackMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/FalmaleHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/HumanEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/HumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/MaleHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/WhiteFemaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/WhiteMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/YellowFemaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/abstract_factory_pattern/YellowMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/ClassUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/ColoredHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/HumanFactoryAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/WhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/factory_method/YellowRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/multi_cases/Emperor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/proxy_pattern/JiaShi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/proxy_pattern/KindWomen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/proxy_pattern/PanJingLian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/proxy_pattern/XiMenQing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/proxy_pattern/proxy/WangPo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/singleton_pattern/S8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/strategy_pattern/BackDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/strategy_pattern/BlockEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/strategy_pattern/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/strategy_pattern/GiveGreenLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/strategy_pattern/IStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chauncy/designpattern/strategy_pattern/ZhaoYun.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q61hMc3g8l2BahGxxaqCWNGVt8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chauncy.designpattern.abstract_factory_pattern" />
+      <recent name="com.chauncy.designpattern.factory_method" />
+      <recent name="com.chauncy.designpattern.singleton_pattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ClassUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chauncy.designpattern.factory_method.ClassUtils" />
+      <module name="TTT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chauncy.designpattern.factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chauncy.designpattern.factory_method.HumanFactory" />
+      <module name="TTT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chauncy.designpattern.factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanFactoryAuto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chauncy.designpattern.factory_method.HumanFactoryAuto" />
+      <module name="TTT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chauncy.designpattern.factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chauncy.designpattern.abstract_factory_pattern.Main" />
+      <module name="TTT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chauncy.designpattern.abstract_factory_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chauncy.designpattern.factory_method.Test" />
+      <module name="TTT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chauncy.designpattern.factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HumanFactoryAuto" />
+        <item itemvalue="Application.ClassUtils" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HumanFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR,SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="221d6e71-7aae-4823-a9fd-4324df44aaa1" name="Default Changelist" comment="" />
+      <created>1616385344185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616385344185</updated>
+      <workItem from="1616385347126" duration="14957000" />
+      <workItem from="1616413538438" duration="1220000" />
+      <workItem from="1616462957710" duration="20826000" />
+      <workItem from="1616548692532" duration="24220000" />
+      <workItem from="1616639955846" duration="19577000" />
+      <workItem from="1616670219341" duration="3499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2446" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1616671858443">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="1111" y="-1299" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1047/-61.-1417.3440.1417@-61.-1417.3440.1417" timestamp="1616418235047" />
+    <state x="2446" y="151" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1003/0.23.1792.1097@1792.63.1920.1003" timestamp="1616670953747" />
+    <state x="2446" y="151" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616671858443" />
+    <state x="2446" y="151" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616654237250" />
+    <state x="2446" y="151" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616640731706" />
+    <state x="2446" y="151" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616565327294" />
+    <state x="2434" y="63" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616642495122">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2434" y="63" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616642495122" />
+    <state x="2398" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616642554939">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2398" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616642554939" />
+    <state width="1730" height="230" key="GridCell.Tab.0.bottom" timestamp="1616672981392">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state width="1844" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1047/-61.-1417.3440.1417@-61.-1417.3440.1417" timestamp="1616419221904" />
+    <state width="1730" height="230" key="GridCell.Tab.0.bottom/0.23.1792.1047@0.23.1792.1047" timestamp="1616672981392" />
+    <state width="1730" height="230" key="GridCell.Tab.0.bottom/0.23.1792.1048@0.23.1792.1048" timestamp="1616672809212" />
+    <state width="1730" height="189" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1045@1792.63.1920.1057" timestamp="1616658250023" />
+    <state width="1730" height="604" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664861195" />
+    <state width="1730" height="684" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821231" />
+    <state width="1730" height="230" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616672555400" />
+    <state width="1730" height="298" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616574998283" />
+    <state width="1730" height="228" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616570271743" />
+    <state width="1730" height="217" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012270" />
+    <state width="1730" height="336" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358148" />
+    <state width="1730" height="230" key="GridCell.Tab.0.center" timestamp="1616672981391">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state width="1844" height="270" key="GridCell.Tab.0.center/0.23.1792.1047/-61.-1417.3440.1417@-61.-1417.3440.1417" timestamp="1616419221903" />
+    <state width="1730" height="230" key="GridCell.Tab.0.center/0.23.1792.1047@0.23.1792.1047" timestamp="1616672981391" />
+    <state width="1730" height="230" key="GridCell.Tab.0.center/0.23.1792.1048@0.23.1792.1048" timestamp="1616672809212" />
+    <state width="1730" height="189" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1045@1792.63.1920.1057" timestamp="1616658250022" />
+    <state width="1730" height="604" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664861194" />
+    <state width="1730" height="684" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821231" />
+    <state width="1730" height="230" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616672555399" />
+    <state width="1730" height="298" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616574998282" />
+    <state width="1730" height="228" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616570271743" />
+    <state width="1730" height="217" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012270" />
+    <state width="1730" height="336" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358147" />
+    <state width="1730" height="230" key="GridCell.Tab.0.left" timestamp="1616672981391">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state width="1844" height="270" key="GridCell.Tab.0.left/0.23.1792.1047/-61.-1417.3440.1417@-61.-1417.3440.1417" timestamp="1616419221903" />
+    <state width="1730" height="230" key="GridCell.Tab.0.left/0.23.1792.1047@0.23.1792.1047" timestamp="1616672981391" />
+    <state width="1730" height="230" key="GridCell.Tab.0.left/0.23.1792.1048@0.23.1792.1048" timestamp="1616672809211" />
+    <state width="1730" height="189" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1045@1792.63.1920.1057" timestamp="1616658250021" />
+    <state width="1730" height="604" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664861194" />
+    <state width="1730" height="684" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821230" />
+    <state width="1730" height="230" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616672555399" />
+    <state width="1730" height="298" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616574998282" />
+    <state width="1730" height="228" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616570271742" />
+    <state width="1730" height="217" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012269" />
+    <state width="1730" height="336" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358147" />
+    <state width="1730" height="230" key="GridCell.Tab.0.right" timestamp="1616672981392">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state width="1844" height="270" key="GridCell.Tab.0.right/0.23.1792.1047/-61.-1417.3440.1417@-61.-1417.3440.1417" timestamp="1616419221904" />
+    <state width="1730" height="230" key="GridCell.Tab.0.right/0.23.1792.1047@0.23.1792.1047" timestamp="1616672981392" />
+    <state width="1730" height="230" key="GridCell.Tab.0.right/0.23.1792.1048@0.23.1792.1048" timestamp="1616672809212" />
+    <state width="1730" height="189" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1045@1792.63.1920.1057" timestamp="1616658250022" />
+    <state width="1730" height="604" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664861195" />
+    <state width="1730" height="684" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821231" />
+    <state width="1730" height="230" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616672555400" />
+    <state width="1730" height="298" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616574998282" />
+    <state width="1730" height="228" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616570271743" />
+    <state width="1730" height="217" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012270" />
+    <state width="1730" height="336" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358148" />
+    <state width="1730" height="684" key="GridCell.Tab.1.bottom" timestamp="1616667821232">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1730" height="684" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664823156" />
+    <state width="1730" height="684" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821232" />
+    <state width="1730" height="336" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616494952381" />
+    <state width="1730" height="183" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616407813684" />
+    <state width="1730" height="217" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012399" />
+    <state width="1730" height="336" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358149" />
+    <state width="1730" height="684" key="GridCell.Tab.1.center" timestamp="1616667821232">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1730" height="684" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664823156" />
+    <state width="1730" height="684" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821232" />
+    <state width="1730" height="336" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616494952381" />
+    <state width="1730" height="183" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616407813683" />
+    <state width="1730" height="217" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012398" />
+    <state width="1730" height="336" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358148" />
+    <state width="1730" height="684" key="GridCell.Tab.1.left" timestamp="1616667821232">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1730" height="684" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664823155" />
+    <state width="1730" height="684" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821232" />
+    <state width="1730" height="336" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616494952380" />
+    <state width="1730" height="183" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616407813683" />
+    <state width="1730" height="217" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012397" />
+    <state width="1730" height="336" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358148" />
+    <state width="1730" height="684" key="GridCell.Tab.1.right" timestamp="1616667821232">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1730" height="684" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616664823156" />
+    <state width="1730" height="684" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616667821232" />
+    <state width="1730" height="336" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616494952381" />
+    <state width="1730" height="183" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616407813684" />
+    <state width="1730" height="217" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1051@1792.63.1920.1057" timestamp="1616487012398" />
+    <state width="1730" height="336" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1052@1792.63.1920.1057" timestamp="1616489358149" />
+    <state x="202" y="23" width="1446" height="1047" key="SettingsEditor" timestamp="1616672978374">
+      <screen x="0" y="23" width="1792" height="1047" />
+    </state>
+    <state x="202" y="23" width="1446" height="1047" key="SettingsEditor/0.23.1792.1047@0.23.1792.1047" timestamp="1616672978374" />
+    <state x="202" y="23" key="SettingsEditor/0.23.1792.1048@0.23.1792.1048" timestamp="1616672903312" />
+    <state x="2008" y="63" width="1446" height="1057" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616671271007" />
+    <state x="2008" y="63" width="1446" height="1057" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616406650032" />
+    <state x="2008" y="63" width="1446" height="1057" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616385709925" />
+    <state width="954" height="380" key="documentation.popup.size" timestamp="1616575499987">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="954" height="380" key="documentation.popup.size/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616564560628" />
+    <state width="954" height="380" key="documentation.popup.size/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616575499987" />
+    <state width="954" height="380" key="documentation.popup.size/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616563169917" />
+    <state x="2203" y="159" width="1145" height="844" key="find.popup" timestamp="1616385360754">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2203" y="159" width="1145" height="844" key="find.popup/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616385360754" />
+    <state width="954" height="380" key="javadoc.popup.new" timestamp="1616563169917">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="954" height="380" key="javadoc.popup.new/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616563169917" />
+    <state x="2426" y="63" key="refactoring.ChangeSignatureDialog" timestamp="1616396536577">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2426" y="63" key="refactoring.ChangeSignatureDialog/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616396536577" />
+    <state x="2273" y="63" width="1005" height="1057" key="search.everywhere.popup" timestamp="1616660174710">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2273" y="63" width="1005" height="1057" key="search.everywhere.popup/1792.63.1920.1057/0.23.1792.1046@1792.63.1920.1057" timestamp="1616660174710" />
+    <state x="2273" y="63" width="1005" height="1057" key="search.everywhere.popup/1792.63.1920.1057/0.23.1792.1047@1792.63.1920.1057" timestamp="1616549496304" />
+    <state x="2273" y="63" width="1005" height="1057" key="search.everywhere.popup/1792.63.1920.1057/0.23.1792.1048@1792.63.1920.1057" timestamp="1616555572823" />
+    <state x="2273" y="63" width="1005" height="1057" key="search.everywhere.popup/1792.63.1920.1057/0.23.1792.1049@1792.63.1920.1057" timestamp="1616575889955" />
+    <state x="2273" y="63" width="1005" height="1057" key="search.everywhere.popup/1792.63.1920.1057/0.23.1792.1050@1792.63.1920.1057" timestamp="1616568977470" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TTT$Chauncy_Lambda.ic" NAME="Chauncy_Lambda Coverage Results" MODIFIED="1616551109457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.chauncy.lambda_test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
